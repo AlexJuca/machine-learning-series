@@ -1,6 +1,12 @@
 # Machine Learning for Monkeys
 ![alt tag](https://github.com/AlexJuca/machine-learning-series/blob/master/images/the-brain.jpg)
 
+# What are the contents of this series?
+Part 0x00 — Introduction
+Part 0x001 — Foundations of ML
+Part 0x002 — Theory to Algorithms
+Part 0x003 — Learning Models
+
 ## What is machine learning?
 Machine learning is the application of Artificial Intelligence, the objective of machine learning is to allow the computer to learn from experience. It is the intersection of Linear Algebra, Statistics, Probability and Calculus.
 
