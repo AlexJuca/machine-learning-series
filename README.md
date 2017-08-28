@@ -1,4 +1,4 @@
-# Welcome to my Machine Learning Series
+# Machine Learning for Monkeys
 ![alt tag](https://github.com/AlexJuca/machine-learning-series/blob/master/images/the-brain.jpg)
 
 ## What is machine learning?
